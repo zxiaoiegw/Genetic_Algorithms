@@ -1,0 +1,32 @@
+
+Final Schedule (Fitness Score: 9.90):
+
+
+1 PM
+--------------------------------------------------------------------------------
+Activity: SLA100B  | Room: Loft 206     | Facilitator: Lock
+Activity: SLA394   | Room: Slater 003   | Facilitator: Tyler
+
+10 AM
+--------------------------------------------------------------------------------
+Activity: SLA100A  | Room: Beach 301    | Facilitator: Zeldin
+
+11 AM
+--------------------------------------------------------------------------------
+Activity: SLA191B  | Room: Roman 201    | Facilitator: Lock
+Activity: SLA201   | Room: Loft 310     | Facilitator: Banks
+Activity: SLA303   | Room: Frank 119    | Facilitator: Zeldin
+Activity: SLA451   | Room: Slater 003   | Facilitator: Singer
+
+12 PM
+--------------------------------------------------------------------------------
+Activity: SLA191A  | Room: Loft 206     | Facilitator: Zeldin
+
+2 PM
+--------------------------------------------------------------------------------
+Activity: SLA291   | Room: Roman 201    | Facilitator: Zeldin
+Activity: SLA449   | Room: Loft 206     | Facilitator: Lock
+
+3 PM
+--------------------------------------------------------------------------------
+Activity: SLA304   | Room: Roman 201    | Facilitator: Glen
